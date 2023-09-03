@@ -1,5 +1,4 @@
 var IMAGE_PATH = "./images/";
-
 var MAX_ANSWERS = 4;
 var APP_NAME = "Runas Guessr"
 var CONFIG = [
@@ -153,7 +152,7 @@ var CONFIG = [
     {
         "Name": "Inguz",
         "Value": 22,
-        "Image": "22-Ingwaz.png",
+        "Image": "22-Inguz.png",
         "Response": "Fertilidad, gestación, logros",
         "Description": "Inguz indica una fase de creatividad, realización y emprendimiento, señalando la capacidad para iniciar nuevos proyectos o resolver problemas."
     },
