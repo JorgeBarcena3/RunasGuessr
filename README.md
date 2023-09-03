@@ -1,1 +1,1 @@
-# TarotGuessr
+# RunasGuessr

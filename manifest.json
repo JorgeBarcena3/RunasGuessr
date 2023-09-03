@@ -9,10 +9,10 @@
     }
   ],
   "background_color": "#001a59",
-  "description": "Aprende el significado de las cartas del tarot",
+  "description": "Aprende el significado de las Runas",
   "dir": "ltr",
   "display": "fullscreen",
-  "name": "Tarot Guesr",
+  "name": "Runas Guesr",
   "orientation": "portrait",
   "scope": "/",
   "short_name": "RunasGuessr",
@@ -68,6 +68,6 @@
       "description": "Open app"
     }
   ],
-  "id": "tarot.guesr",
+  "id": "runas.guesr",
   "lang": "es"
 }
