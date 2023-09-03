@@ -3,6 +3,7 @@ let mPoints = 0;
 let currentCard = {};
 let isGaming = true;
 
+
 // MAX y MIN INCLUSSIVE
 function getRandomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
