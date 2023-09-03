@@ -14,7 +14,7 @@
   "display": "fullscreen",
   "name": "Runas Guesr",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/RunasGuessr",
   "short_name": "RunasGuessr",
   "start_url": "index.html",
   "theme_color": "#07002f",
