@@ -143,7 +143,7 @@ function createSlider() {
 
     arcanosSelect = new MobileSelect({
         trigger: '#initialContainerNameTitle',
-        title: 'ARCANOS MAYORES',
+        title: 'RUNAS FUTARK',
         cascade: true,
         ensureBtnText: "Ok",
         ensureBtnColor: "#000A0D",
